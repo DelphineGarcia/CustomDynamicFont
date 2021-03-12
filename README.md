@@ -2,5 +2,5 @@
 
 Un small project exemple that illustrate using a custom font with Dynamic Type
 
-<img width="431" alt="Capture d’écran 2021-03-12 à 17 38 19" src="https://user-images.githubusercontent.com/16307074/110970172-c2e44580-8359-11eb-87a0-d7e87c71cacb.png">
+![Capture d’écran 2021-03-12 à 17 40 43](https://user-images.githubusercontent.com/16307074/110970564-2a9a9080-835a-11eb-8752-7a8341c10cc2.png)
 
