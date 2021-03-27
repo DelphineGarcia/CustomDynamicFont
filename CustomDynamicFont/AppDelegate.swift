@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  CustomDynamicFont
 //
-//  Created by GARCIA Delphine (i-BP) on 12/03/2021.
+//  Created by GARCIA Delphine on 12/03/2021.
 //
 
 import UIKit
